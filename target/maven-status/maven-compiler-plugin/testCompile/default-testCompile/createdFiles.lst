@@ -1,0 +1,3 @@
+runner/TestRunnerNew.class
+com/MavenCucumberJenkins/com/MavenCucumberJenkins/AppTest.class
+stepDefinition/smokeTest.class
